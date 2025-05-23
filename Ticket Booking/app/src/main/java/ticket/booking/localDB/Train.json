@@ -1,0 +1,101 @@
+[
+  {
+    "train_id": "BACS001",
+    "train_no": 12345,
+    "train_name": "Shatabdi Express",
+    "seats": [
+      [0, 0, 1, 0, 0, 0],
+      [1, 0, 0, 1, 0, 0],
+      [0, 0, 0, 0, 1, 0],
+      [1, 1, 0, 0, 0, 0]
+    ],
+    "station_times": {
+      "Bangalore": "06:30:00",
+      "Chennai": "09:45:00",
+      "Hyderabad": "13:00:00",
+      "Jaipur": "18:20:00",
+      "Delhi": "22:15:00"
+    },
+    "stations": [
+      "Bangalore",
+      "Chennai",
+      "Hyderabad",
+      "Jaipur",
+      "Delhi"
+    ]
+  },
+  {
+    "train_id": "MADC002",
+    "train_no": 54321,
+    "train_name": "Rajdhani Express",
+    "seats": [
+      [0, 0, 0, 1, 0, 0],
+      [1, 1, 0, 0, 0, 0],
+      [0, 0, 1, 0, 1, 0],
+      [0, 0, 0, 0, 0, 1],
+      [1, 0, 0, 0, 0, 0]
+    ],
+    "station_times": {
+      "Mumbai": "08:00:00",
+      "Pune": "10:30:00",
+      "Ahmedabad": "14:15:00",
+      "Kolkata": "20:45:00",
+      "Delhi": "23:55:00"
+    },
+    "stations": [
+      "Mumbai",
+      "Pune",
+      "Ahmedabad",
+      "Kolkata",
+      "Delhi"
+    ]
+  },
+  {
+    "train_id": "CHKL003",
+    "train_no": 67890,
+    "train_name": "Duronto Express",
+    "seats": [
+      [1, 0, 0, 0, 0, 0],
+      [0, 1, 0, 0, 1, 0],
+      [0, 0, 1, 1, 0, 0]
+    ],
+    "station_times": {
+      "Chennai": "07:15:00",
+      "Visakhapatnam": "11:00:00",
+      "Bhubaneswar": "14:30:00",
+      "Kolkata": "17:45:00"
+    },
+    "stations": [
+      "Chennai",
+      "Visakhapatnam",
+      "Bhubaneswar",
+      "Kolkata"
+    ]
+  },
+  {
+    "train_id": "HYBL004",
+    "train_no": 11223,
+    "train_name": "Garib Rath",
+    "seats": [
+      [0, 0, 0, 0, 1, 0],
+      [1, 0, 0, 1, 0, 0],
+      [0, 1, 0, 0, 0, 1],
+      [0, 0, 1, 0, 0, 0],
+      [1, 1, 0, 0, 0, 0]
+    ],
+    "station_times": {
+      "Hyderabad": "09:00:00",
+      "Nagpur": "13:30:00",
+      "Bhopal": "17:45:00",
+      "Lucknow": "22:00:00",
+      "Delhi": "23:30:00"
+    },
+    "stations": [
+      "Hyderabad",
+      "Nagpur",
+      "Bhopal",
+      "Lucknow",
+      "Delhi"
+    ]
+  }
+]
